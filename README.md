@@ -1,12 +1,12 @@
 # Setting up the project
 
 ## Step 1: Training of Dialogflow Model
-- go to [Dialogflow Website](https://dialogflow.cloud.google.com/) and create a Dialogflow agent. A default screen appears which already have default welcome intents and default fallback intents.
-- you create your own model/use my model also. In order to use my model, follow:
+- Go to [Dialogflow Website](https://dialogflow.cloud.google.com/) and create a Dialogflow agent. A default screen appears which already have default welcome intents and default fallback intents.
+- You create your own model/use my model also. In order to use my model, follow:
 `Settings » export and import » import from zip`  
 [Model in zip format](https://drive.google.com/file/d/1HiorruUoeU7bif8R_2FHwu8XSxwKMXWa/view?usp=sharing)
 Click on the intents tab to check the import.
-- for a quick demo refer to right hand panel. 
+- For a quick demo refer to right hand panel. 
 - In settings, check whether Enabled beta features and API is enabled or not.
 
 ## Step 2: Installing Google Cloud CLI and setting it up
