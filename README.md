@@ -1,7 +1,7 @@
 # Setting up the project
 
 ## Step 1: Training of Dialogflow Model
-- go to dialogflow.cloud.google.com and create a Dialogflow agent. A default screen appears which already have default welcome intents and default fallback intents.
+- go to [Dialogflow Website](https://dialogflow.cloud.google.com/) and create a Dialogflow agent. A default screen appears which already have default welcome intents and default fallback intents.
 - you create your own model/use my model also. In order to use my model, follow:
 `Settings » export and import » import from zip`  
 [Model in zip format](https://drive.google.com/file/d/1HiorruUoeU7bif8R_2FHwu8XSxwKMXWa/view?usp=sharing)
